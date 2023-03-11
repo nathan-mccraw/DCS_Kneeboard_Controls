@@ -1,9 +1,10 @@
 # DCS_Kneeboard_Controls
 
-[High Level Overview.pdf](https://github.com/nathan-mccraw/DCS_Kneeboard_Controls/files/10947345/High.Level.Overview.pdf)
+![image](https://user-images.githubusercontent.com/84479635/224459520-3aac85fe-126e-4cb3-8c6c-f18c843f8901.png)
 
-[Initial ToDos.pdf](https://github.com/nathan-mccraw/DCS_Kneeboard_Controls/files/10947347/Initial.ToDos.pdf)
+![image](https://user-images.githubusercontent.com/84479635/224459492-da1b0975-640e-4838-b734-31f83aded94a.png)
 
-[Logic Overview.pdf](https://github.com/nathan-mccraw/DCS_Kneeboard_Controls/files/10947348/Logic.Overview.pdf)
+![image](https://user-images.githubusercontent.com/84479635/224459549-16d1d881-d717-47c0-9e4b-08ec4573852e.png)
 
-[UI Draft.pdf](https://github.com/nathan-mccraw/DCS_Kneeboard_Controls/files/10947349/UI.Draft.pdf)
+![image](https://user-images.githubusercontent.com/84479635/224459630-7b1e97af-7bec-4d51-a124-531dfbe6abf3.png)
+
