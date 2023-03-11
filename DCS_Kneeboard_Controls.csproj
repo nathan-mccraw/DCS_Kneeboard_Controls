@@ -7,4 +7,8 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Core\DcsControls\AirCraft" />
+    </ItemGroup>
+
 </Project>

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCS_Kneeboard_Controls", "DCS_Kneeboard_Controls.csproj", "{31BBE4F7-AFD4-4F97-813B-0D4C741517A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3652595E-3576-4853-B456-650FD75B3151}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{31BBE4F7-AFD4-4F97-813B-0D4C741517A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BBE4F7-AFD4-4F97-813B-0D4C741517A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BBE4F7-AFD4-4F97-813B-0D4C741517A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3652595E-3576-4853-B456-650FD75B3151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3652595E-3576-4853-B456-650FD75B3151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3652595E-3576-4853-B456-650FD75B3151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3652595E-3576-4853-B456-650FD75B3151}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
